@@ -1,0 +1,3 @@
+[submodule "WETHTest/lib/forge-std"]
+	path = WETHTest/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
